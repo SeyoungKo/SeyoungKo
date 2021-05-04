@@ -1,9 +1,9 @@
 
-<h2 align="center">Hi there 👋</h2>
-<br>
-<p align="center"> 🌱 I’m currently learning ... Data Science</p>
+<h2 align="center"> Hi there 👋 </h2>
 
-<h3 align="center">🛠 Technology Stack 🛠</h3>
+<p align="center"> 🌱  I’m currently learning ... Data Science</p>
+
+<h3 align="center"> 🛠 Technology Stack 🛠 </h3>
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
