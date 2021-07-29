@@ -19,11 +19,11 @@
 <br><br>
 
 <h3>My Github Stats 🎨</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=true&theme=buefy" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=false&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyoungKo&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyoungKo&layout=compact&theme=default"/>
 </a>
 
 <!-- (https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=true&theme=buefy)
