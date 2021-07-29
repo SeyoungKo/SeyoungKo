@@ -22,9 +22,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=true&theme=buefy" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyoungKo&layout=compact&theme=buefy" />
-</a> -->
+</a>
 
 <!-- (https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=true&theme=buefy)
 
