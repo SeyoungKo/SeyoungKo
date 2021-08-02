@@ -20,10 +20,10 @@
 
 <h3>My Github Stats 🎨</h3>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=false&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=false&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyoungKo&layout=compact&theme=default"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyoungKo&layout=compact&theme=buefy"/>
 </a>
 
 <!-- (https://github-readme-stats.vercel.app/api?username=SeyoungKo&show_icons=true&theme=buefy)
